@@ -31,6 +31,8 @@ Repository latihan issue, branch, dan pull request GitHub.
 
 ## Kebiasaan Baik
 
+Untuk latihan melalui terminal, baca [panduan kontribusi](CONTRIBUTING.md).
+
 - Jangan mengunggah password, token, atau data pribadi.
 - Buat satu PR untuk satu tujuan agar mudah diperiksa.
 - Ikuti aturan review saat berkontribusi ke proyek lain.
